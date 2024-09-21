@@ -1,0 +1,63 @@
+.profileimage {
+  width: 200px;
+}
+
+.profile {
+  margin-top: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.achievement {
+  padding-top: 55px;
+}
+
+#profile {
+  padding-top: 55px;
+}
+
+body {
+  background: linear-gradient(#9a08dd 0%, #dd4c4f 40%, #7420d3 100%);
+}
+
+.profile h2 {
+  color: white;
+}
+
+.profile h5 {
+  color: white;
+  transform: translateY(-10px);
+}
+
+.biodata {
+  margin-top: -50px; /* Sesuaikan dengan tinggi SVG */
+  background: linear-gradient(#ffffff 0%, #ffffff 40%, #ffffff00 100%);
+  padding-top: 55px; /* Sesuaikan padding sesuai kebutuhan */
+}
+
+.footer {
+  margin-top: -50px;
+  background-color: #fff;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.contact a {
+  color: black;
+  font-size: 30px;
+}
+
+.navbar-nav {
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.navbar-brand {
+  margin-right: auto;
+}
+.tes {
+  text-align: justify;
+}
